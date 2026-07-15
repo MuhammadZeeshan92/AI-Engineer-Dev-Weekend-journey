@@ -1,0 +1,4 @@
+Hello World
+Welcome to AI Engineering.
+Python is awesome!
+Learning Python fundamentals is important.
